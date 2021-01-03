@@ -1,11 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: Jan 3, 2021
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Completed lecs. 1 & 2 of 6.006 & lecs. 1 - 7 of @musikalkemist's insanely good playlist of DL with audio (secret project incoming ;)) + an hour each on @prampco and @LeetCode. 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** The pramp interview was a bit dreary, but overall I'm happy with the progress today. I'd like to have spent more time on development, but eh iiwii.
 
 **Link to work:** [Calculator App](http://www.example.com)
 
